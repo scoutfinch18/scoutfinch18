@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scoutfinch18
-- 👀 I’m interested in data science.
+- 👀 I’m interested in data science and AI.
 - 🌱 I’m currently learning Harvard's CS50.
-- 💞️ I’m looking to collaborate on any cool project.
+- 💞️ I want to solve challenging problems.
 - 📫 How to reach me: just DM and we'll go from there.
 
 <!---
