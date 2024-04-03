@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @scoutfinch18
-- 👀 I’m studying data science and AI.
-- 💞️ I want to solve challenging problems.
-- 📫 How to reach me: just DM and we'll go from there.
+"Solve AI, then solve everything else." - Demis Hassabis
+
 
 <!---
 scoutfinch18/scoutfinch18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
